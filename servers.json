@@ -1,0 +1,13 @@
+[
+    {
+        "name": "jitsi-meet-master",
+        "box": "ubuntu-server-19.10",
+        "group": "Jitsi Development",
+        "ram": 4096,
+        "vcpu": 4,
+        "ip_addr": "192.168.54.101",
+        "scripts": [
+            
+        ]
+    }
+]
